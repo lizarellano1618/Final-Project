@@ -1,0 +1,31 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+<meta charset="UTF-8"> 
+<title>Personal Webpage
+</title> <!-- This is the bridge that connects your CSS --> 
+<link rel="stylesheet" href="style.css"> 
+</head> 
+<body> 
+<h1>Lizeth Arellano
+</h1> 
+<h2>Computing Applications
+</h2> 
+<p>I am using this site to show my repository for my Computing Applications class...
+</p> 
+<p>One of the goals I have is to become very knowledgeable...
+</p> <p>In my future career I aim to work as a professional...
+</p> 
+<h3>Hobbies and Interests
+</h3> 
+<ul> 
+<li>Spending time with my family and/or friends.
+</li> <li>Going to live events or sports.
+</li> <li>Playing video games.
+</li> 
+</ul> 
+<p>Check out my work on <a href="[https://github.com/lizarellano1618](https://github.com/lizarellano1618)">GitHub
+</a>
+</p> 
+</body> 
+</html>
